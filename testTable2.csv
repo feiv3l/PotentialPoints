@@ -1,0 +1,601 @@
+PLAYER,TYPE,ACTION,OPP,STATUS,PROJ,SCORE,OPRK,%ST,%ROST,#ERROR!,FPTS,AVG,LAST
+"Jonathan Taylor
+IndRB",LCow,,@Hou,Sun 7:00 PM,20.9,--,--,99.6,99.9,0,297.7,19.8,--
+"Derrick Henry
+TenRB",DOM,,NYG,Sun 10:25 PM,17.1,--,--,99.4,99.8,0,252.0,16.8,--
+"Cooper Kupp
+LARWR",FLY,,Buf,Fri 2:20 AM,15.8,--,--,99.5,99.9,0,253.8,15.9,--
+"Christian McCaffrey
+CarRB",BIBO,,Cle,Sun 7:00 PM,18.1,--,--,99.3,99.8,0,265.2,18.9,--
+"Justin Jefferson
+MinWR",REIC,,GB,Sun 10:25 PM,14.8,--,--,99.5,99.8,0,239.7,15.0,--
+"Ja'Marr Chase
+CinWR",OTK,,Pit,Sun 7:00 PM,14.4,--,--,99.4,99.8,0,234.5,14.7,--
+"Austin Ekeler
+LACRB",BIBO,,LV,Sun 10:25 PM,16.9,--,--,99.4,99.8,0,250.7,16.7,--
+"Najee Harris
+PitRB",CML,,@Cin,Sun 7:00 PM,14.5,--,--,98.2,99.7,0,233.2,15.5,--
+"Dalvin Cook
+MinRB",MLFS,,GB,Sun 10:25 PM,15.4,--,--,98.5,99.8,0,236.7,16.9,--
+"Deebo Samuel
+SFWR",OTK,,@Chi,Sun 7:00 PM,14.2,--,--,99.0,99.8,0,224.2,14.0,--
+"Stefon Diggs
+BufWR",MLFS,,@LAR,Fri 2:20 AM,13.5,--,--,99.0,99.8,0,211.9,13.2,--
+"Davante Adams
+LVWR",FLY,,@LAC,Sun 10:25 PM,14.0,--,--,99.4,99.9,0,206.0,13.7,--
+"CeeDee Lamb
+DalWR",LCow,,TB,Mon 2:20 AM,14.1,--,--,97.8,99.7,0,213.3,13.3,--
+"Joe Mixon
+CinRB",MLFS,,Pit,Sun 7:00 PM,15.9,--,--,97.9,99.8,0,236.8,15.8,--
+"Alvin Kamara
+NORB",DOM,,@Atl,Sun 7:00 PM,17.0,--,--,96.5,99.7,0,229.0,16.4,--
+"Leonard Fournette
+TBRB",FLY,,@Dal,Mon 2:20 AM,15.2,--,--,95.4,99.5,0,229.6,15.3,--
+"Tyreek Hill
+MiaWR",CML,,NE,Sun 7:00 PM,13.0,--,--,98.4,99.8,0,203.1,12.7,--
+"D'Andre Swift
+DetRB",OTK,,Phi,Sun 7:00 PM,14.4,--,--,95.6,99.5,0,224.9,15.0,--
+"Javonte Williams
+DenRB",REIC,,@Sea,Tue 2:15 AM,13.8,--,--,90.8,98.9,0,213.7,14.2,--
+"Mark Andrews
+BalTE",PP,,@NYJ,Sun 7:00 PM,11.9,--,--,99.1,99.8,0,193.0,12.1,--
+"James Conner
+AriRB",FLY,,KC,Sun 10:25 PM,15.7,--,--,91.0,99.0,0,217.7,15.5,--
+"Cam AkersQ
+LARRB",LCow,,Buf,Fri 2:20 AM,12.5,--,--,83.6,98.2,0,211.9,14.1,--
+"Nick Chubb
+CleRB",CML,,@Car,Sun 7:00 PM,13.3,--,--,89.9,99.3,0,201.9,13.5,--
+"Travis Kelce
+KCTE",FLY,,@Ari,Sun 10:25 PM,12.2,--,--,99.4,99.8,0,194.7,12.2,--
+"Tee HigginsQ
+CinWR",PP,,Pit,Sun 7:00 PM,12.2,--,--,87.5,98.8,0,197.6,12.4,--
+"DJ MooreQ
+CarWR",PP,,Cle,Sun 7:00 PM,12.1,--,--,85.6,98.5,-0.1,192.5,12.0,--
+"Mike EvansQ
+TBWR",CML,,@Dal,Mon 2:20 AM,11.8,--,--,89.9,99.3,-0.2,186.0,11.6,--
+"Aaron Jones
+GBRB",MHB,,@Min,Sun 10:25 PM,13.0,--,--,92.0,99.4,0,210.8,15.1,--
+"Saquon Barkley
+NYGRB",MLFS,,@Ten,Sun 10:25 PM,13.9,--,--,88.6,98.8,#ERROR!,202.6,14.5,--
+"Keenan Allen
+LACWR",MLFS,,LV,Sun 10:25 PM,11.8,--,--,93.8,99.6,#ERROR!,191.4,12.8,--
+"Mike Williams
+LACWR",DOM,,LV,Sun 10:25 PM,11.7,--,--,70.5,95.7,0,179.7,12.0,--
+"A.J. Brown
+PhiWR",DOM,,@Det,Sun 7:00 PM,12.2,--,--,88.2,99.0,-0.1,185.6,11.6,--
+"J.K. DobbinsQ
+BalRB",REIC,,@NYJ,Sun 7:00 PM,13.8,--,--,68.5,94.9,#ERROR!,201.3,13.4,--
+"David MontgomeryQ
+ChiRB",OTK,,SF,Sun 7:00 PM,11.9,--,--,79.0,96.9,-0.7,197.4,13.2,--
+"Breece Hall
+NYJRB",MHB,,Bal,Sun 7:00 PM,11.3,--,--,61.0,94.0,#ERROR!,193.5,12.9,--
+"Antonio Gibson
+WshRB",PP,,Jax,Sun 7:00 PM,12.6,--,--,63.5,94.1,-0.4,191.6,12.8,--
+"Terry McLaurin
+WshWR",MHB,,Jax,Sun 7:00 PM,11.9,--,--,82.6,98.1,0,183.5,11.5,--
+"Michael Pittman Jr.
+IndWR",REIC,,@Hou,Sun 7:00 PM,11.7,--,--,83.9,98.1,#ERROR!,185.0,11.6,--
+"Jaylen Waddle
+MiaWR",PP,,NE,Sun 7:00 PM,11.3,--,--,85.7,99.0,0,184.2,11.5,--
+"Ezekiel Elliott
+DalRB",LCow,,TB,Mon 2:20 AM,12.4,--,--,79.1,97.4,0,199.0,13.3,--
+"Josh Jacobs
+LVRB",PP,,@LAC,Sun 10:25 PM,11.6,--,--,73.7,96.4,-0.2,195.4,13.0,--
+"Josh Allen
+BufQB",PP,,@LAR,Fri 2:20 AM,22.5,--,--,97.1,99.8,0,375.1,23.4,--
+"Courtland Sutton
+DenWR",MHB,,@Sea,Tue 2:15 AM,10.8,--,--,38.8,91.3,#ERROR!,177.6,11.1,--
+"Diontae JohnsonQ
+PitWR",LCow,,@Cin,Sun 7:00 PM,11.7,--,--,74.4,96.2,-0.9,175.5,11.0,--
+"Marquise BrownQ
+AriWR",BIBO,,KC,Sun 10:25 PM,12.0,--,--,43.8,92.7,-0.4,173.8,10.9,--
+"DK Metcalf
+SeaWR",REIC,,Den,Tue 2:15 AM,11.2,--,--,68.1,97.0,-0.1,174.8,10.9,--
+"Jerry Jeudy
+DenWR",DOM,,@Sea,Tue 2:15 AM,11.2,--,--,54.2,94.0,#ERROR!,176.6,11.0,--
+"Patrick Mahomes
+KCQB",MHB,,@Ari,Sun 10:25 PM,22.6,--,--,94.0,99.8,0,351.1,21.9,--
+"Brandin Cooks
+HouWR",OTK,,Ind,Sun 7:00 PM,10.9,--,--,53.6,94.3,-0.2,172.9,10.8,--
+"Kyle Pitts
+AtlTE",MHB,,NO,Sun 7:00 PM,9.5,--,--,95.4,99.5,0,160.0,10.0,--
+"Tyreek Hill
+MiaWR",CML,,NE,Sun 7:00 PM,13.0,--,--,98.4,99.8,0,203.1,12.7,--
+"Saquon Barkley
+NYGRB",MLFS,,@Ten,Sun 10:25 PM,13.9,--,--,88.6,98.8,#ERROR!,202.6,14.5,--
+"Nick Chubb
+CleRB",CML,,@Car,Sun 7:00 PM,13.3,--,--,89.9,99.3,0,201.9,13.5,--
+"J.K. DobbinsQ
+BalRB",REIC,,@NYJ,Sun 7:00 PM,13.8,--,--,68.5,94.9,#ERROR!,201.3,13.4,--
+"Ezekiel Elliott
+DalRB",LCow,,TB,Mon 2:20 AM,12.4,--,--,79.1,97.4,0,199.0,13.3,--
+"Tee HigginsQ
+CinWR",PP,,Pit,Sun 7:00 PM,12.2,--,--,87.5,98.8,0,197.6,12.4,--
+"David MontgomeryQ
+ChiRB",OTK,,SF,Sun 7:00 PM,11.9,--,--,79.0,96.9,-0.7,197.4,13.2,--
+"Josh Jacobs
+LVRB",PP,,@LAC,Sun 10:25 PM,11.6,--,--,73.7,96.4,-0.2,195.4,13.0,--
+"Travis Kelce
+KCTE",FLY,,@Ari,Sun 10:25 PM,12.2,--,--,99.4,99.8,0,194.7,12.2,--
+"Breece Hall
+NYJRB",MHB,,Bal,Sun 7:00 PM,11.3,--,--,61.0,94.0,#ERROR!,193.5,12.9,--
+"Mark Andrews
+BalTE",PP,,@NYJ,Sun 7:00 PM,11.9,--,--,99.1,99.8,0,193.0,12.1,--
+"DJ MooreQ
+CarWR",PP,,Cle,Sun 7:00 PM,12.1,--,--,85.6,98.5,-0.1,192.5,12.0,--
+"Antonio Gibson
+WshRB",PP,,Jax,Sun 7:00 PM,12.6,--,--,63.5,94.1,-0.4,191.6,12.8,--
+"Keenan Allen
+LACWR",MLFS,,LV,Sun 10:25 PM,11.8,--,--,93.8,99.6,#ERROR!,191.4,12.8,--
+"Miles SandersQ
+PhiRB",DOM,,@Det,Sun 7:00 PM,12.2,--,--,40.1,89.6,-0.7,186.3,12.4,--
+"Mike EvansQ
+TBWR",CML,,@Dal,Mon 2:20 AM,11.8,--,--,89.9,99.3,-0.2,186.0,11.6,--
+"A.J. Brown
+PhiWR",DOM,,@Det,Sun 7:00 PM,12.2,--,--,88.2,99.0,-0.1,185.6,11.6,--
+"Elijah MitchellQ
+SFRB",LCow,,@Chi,Sun 7:00 PM,13.6,--,--,54.7,90.8,-0.9,185.4,12.4,--
+"Michael Pittman Jr.
+IndWR",REIC,,@Hou,Sun 7:00 PM,11.7,--,--,83.9,98.1,#ERROR!,185.0,11.6,--
+"Jaylen Waddle
+MiaWR",PP,,NE,Sun 7:00 PM,11.3,--,--,85.7,99.0,0,184.2,11.5,--
+"Terry McLaurin
+WshWR",MHB,,Jax,Sun 7:00 PM,11.9,--,--,82.6,98.1,0,183.5,11.5,--
+"Mike Williams
+LACWR",DOM,,LV,Sun 10:25 PM,11.7,--,--,70.5,95.7,0,179.7,12.0,--
+"Courtland Sutton
+DenWR",MHB,,@Sea,Tue 2:15 AM,10.8,--,--,38.8,91.3,#ERROR!,177.6,11.1,--
+"Jerry Jeudy
+DenWR",DOM,,@Sea,Tue 2:15 AM,11.2,--,--,54.2,94.0,#ERROR!,176.6,11.0,--
+"Gabriel Davis
+BufWR",OTK,,@LAR,Fri 2:20 AM,10.3,--,--,24.2,88.7,-0.4,176.0,11.0,--
+"Diontae JohnsonQ
+PitWR",LCow,,@Cin,Sun 7:00 PM,11.7,--,--,74.4,96.2,-0.9,175.5,11.0,--
+"Darnell Mooney
+ChiWR",CML,,SF,Sun 7:00 PM,10.8,--,--,36.3,91.5,-1,174.9,10.9,--
+"DK Metcalf
+SeaWR",REIC,,Den,Tue 2:15 AM,11.2,--,--,68.1,97.0,-0.1,174.8,10.9,--
+"Marquise BrownQ
+AriWR",BIBO,,KC,Sun 10:25 PM,12.0,--,--,43.8,92.7,-0.4,173.8,10.9,--
+"Devin Singletary
+BufRB",OTK,,@LAR,Fri 2:20 AM,9.7,--,--,21.6,88.5,-0.6,173.3,11.6,--
+"Brandin Cooks
+HouWR",OTK,,Ind,Sun 7:00 PM,10.9,--,--,53.6,94.3,-0.2,172.9,10.8,--
+"Amon-Ra St. Brown
+DetWR",OTK,,Phi,Sun 7:00 PM,11.2,--,--,49.1,93.1,-0.7,170.2,10.6,--
+"Travis Etienne Jr.
+JaxRB",MHB,,@Wsh,Sun 7:00 PM,9.7,--,--,45.9,90.9,0,168.0,11.2,--
+"Amari Cooper
+CleWR",CML,,@Car,Sun 7:00 PM,9.6,--,--,34.2,91.9,-0.7,167.8,10.5,--
+"Chris GodwinQ
+TBWR",MLFS,,@Dal,Mon 2:20 AM,12.3,--,--,48.6,93.4,-0.3,164.7,11.0,--
+"Damien Harris
+NERB",CML,,@Mia,Sun 7:00 PM,10.4,--,--,15.3,86.6,-1,164.1,10.9,--
+"Allen Robinson II
+LARWR",OTK,,Buf,Fri 2:20 AM,9.9,--,--,22.1,88.5,-0.5,163.2,10.2,--
+"DeVonta Smith
+PhiWR",LCow,,@Det,Sun 7:00 PM,10.3,--,--,13.7,86.6,-1.4,160.8,10.1,--
+"JuJu Smith-Schuster
+KCWR",BIBO,,@Ari,Sun 10:25 PM,10.2,--,--,30.8,90.3,-0.5,160.6,10.0,--
+"Kyle Pitts
+AtlTE",MHB,,NO,Sun 7:00 PM,9.5,--,--,95.4,99.5,0,160.0,10.0,--
+"Hunter Renfrow
+LVWR",MLFS,,@LAC,Sun 10:25 PM,10.0,--,--,30.3,89.8,-0.6,159.4,10.0,--
+"Kareem Hunt
+CleRB",FLY,,@Car,Sun 7:00 PM,10.7,--,--,21.4,88.1,-0.8,159.2,10.6,--
+"Rashod Bateman
+BalWR",DOM,,@NYJ,Sun 7:00 PM,9.9,--,--,9.4,85.3,-1.1,159.1,9.9,--
+"Adam Thielen
+MinWR",FLY,,GB,Sun 10:25 PM,10.5,--,--,32.5,89.4,-0.2,157.2,10.5,--
+"Tyler Lockett
+SeaWR",FLY,,Den,Tue 2:15 AM,9.7,--,--,19.9,88.8,-1.6,156.4,9.8,--
+"Drake LondonQ
+AtlWR",BIBO,,NO,Sun 7:00 PM,9.3,--,--,8.8,85.2,-1.5,155.9,9.7,--
+"Clyde Edwards-Helaire
+KCRB",CML,,@Ari,Sun 10:25 PM,9.4,--,--,19.3,87.6,-1,155.7,10.4,--
+"Tony Pollard
+DalRB",PP,,TB,Mon 2:20 AM,9.5,--,--,12.5,85.9,-0.9,155.4,10.4,--
+"Elijah Moore
+NYJWR",REIC,,Bal,Sun 7:00 PM,9.5,--,--,5.5,82.2,-2.5,155.3,9.7,--
+"Garrett Wilson
+NYJWR",PP,,Bal,Sun 7:00 PM,9.5,--,--,4.9,80.8,-1.8,154.5,9.7,--
+"DeAndre HopkinsSSPD
+AriWR",REIC,,KC,Sun 10:25 PM,0.0,--,--,4.8,86.0,-1.2,121.7,12.2,--
+"Tony Pollard
+DalRB",PP,,TB,Mon 2:20 AM,9.5,--,--,12.5,85.9,-0.6,155.4,10.4,--
+"Rashod Bateman
+BalWR",DOM,,@NYJ,Sun 7:00 PM,9.9,--,--,10.4,85.5,#ERROR!,158.6,9.9,--
+"Drake LondonQ
+AtlWR",BIBO,,NO,Sun 7:00 PM,9.3,--,--,8.5,85.2,-1.1,155.8,9.7,--
+"AJ Dillon
+GBRB",REIC,,@Min,Sun 10:25 PM,8.6,--,--,8.7,84.7,-0.9,143.4,9.6,--
+"Trey Lance
+SFQB",MHB,,@Chi,Sun 7:00 PM,18.7,--,--,21.4,84.2,#ERROR!,282.3,17.6,--
+"Allen Lazard
+GBWR",DOM,,@Min,Sun 10:25 PM,9.7,--,--,9.5,83.6,#ERROR!,153.8,10.3,--
+"Tyler Bass
+BufK",FLY,,@LAR,Fri 2:20 AM,7.5,--,--,76.3,83.3,-0.8,131.5,7.7,--
+"Colts D/ST
+IndD/ST",OTK,,@Hou,Sun 7:00 PM,7.1,--,--,75.2,83.1,0,110.1,6.5,--
+"Christian Kirk
+JaxWR",DOM,,@Wsh,Sun 7:00 PM,9.2,--,--,5.3,82.9,-1.8,150.9,9.4,--
+"Dawson Knox
+BufTE",DOM,,@LAR,Fri 2:20 AM,7.1,--,--,24.2,82.3,-1.1,111.9,7.5,--
+"Rashaad Penny
+SeaRB",MLFS,,Den,Tue 2:15 AM,10.7,--,--,7.7,82.2,-1.8,146.0,11.2,--
+"Brandon Aiyuk
+SFWR",CML,,@Chi,Sun 7:00 PM,9.3,--,--,6.0,82.2,#ERROR!,150.9,9.4,--
+"Pat Freiermuth
+PitTE",CML,,@Cin,Sun 7:00 PM,7.3,--,--,35.9,82.1,-0.8,112.3,7.0,--
+"Elijah Moore
+NYJWR",REIC,,Bal,Sun 7:00 PM,10.0,--,--,5.5,82.1,-1.8,163.5,10.2,--
+"Derek Carr
+LVQB",FLY,,@LAC,Sun 10:25 PM,15.9,--,--,17.2,82.1,-1.2,259.4,16.2,--
+"Chase Claypool
+PitWR",BIBO,,@Cin,Sun 7:00 PM,9.7,--,--,5.2,81.4,-1.1,150.7,9.4,--
+"Kadarius ToneyQ
+NYGWR",BIBO,,@Ten,Sun 10:25 PM,10.1,--,--,4.8,81.0,-0.4,151.9,10.1,--
+"Garrett Wilson
+NYJWR",PP,,Bal,Sun 7:00 PM,9.5,--,--,4.8,80.8,-1,154.3,9.6,--
+"Chase Edmonds
+MiaRB",REIC,,NE,Sun 7:00 PM,8.2,--,--,4.0,80.4,-1.4,135.1,9.0,--
+"Hunter HenryQ
+NETE",MHB,,@Mia,Sun 7:00 PM,7.4,--,--,24.0,80.2,-1.1,119.2,7.4,--
+"Cowboys D/ST
+DalD/ST",LCow,,TB,Mon 2:20 AM,3.0,--,--,63.1,80.1,-1.7,108.0,6.4,--
+"Rhamondre Stevenson
+NERB",BIBO,,@Mia,Sun 7:00 PM,10.0,--,--,4.7,79.9,#ERROR!,160.4,10.7,--
+"Chris Olave
+NOWR",MHB,,@Atl,Sun 7:00 PM,8.7,--,--,4.0,79.6,-1.2,149.0,9.3,--
+"James RobinsonQ
+JaxRB",LCow,,@Wsh,Sun 7:00 PM,8.8,--,--,3.2,78.7,-1.1,142.7,10.2,--
+"Robert WoodsQ
+TenWR",FLY,,NYG,Sun 10:25 PM,9.2,--,--,2.4,77.3,-0.5,145.4,9.7,--
+"Treylon BurksQ
+TenWR",LCow,,NYG,Sun 10:25 PM,8.0,--,--,2.8,76.7,-3.4,137.2,8.6,--
+"Melvin Gordon III
+DenRB",CML,,@Sea,Tue 2:15 AM,8.3,--,--,3.4,76.5,-2.7,132.3,8.8,--
+"Matt Prater
+AriK",FLY,,KC,Sun 10:25 PM,8.1,--,--,68.5,75.7,-2.1,133.6,7.9,--
+"James Cook
+BufRB",MHB,,@LAR,Fri 2:20 AM,6.7,--,--,2.9,75.3,-1.2,115.6,7.7,--
+"Kenneth Walker IIIQ
+SeaRB",REIC,,Den,Tue 2:15 AM,6.3,--,--,2.1,75.2,-0.8,120.6,8.0,--
+"Michael Carter
+NYJRB",BIBO,,Bal,Sun 7:00 PM,7.8,--,--,3.4,73.4,-3.9,124.8,8.3,--
+"Jakobi Meyers
+NEWR",FLY,,@Mia,Sun 7:00 PM,8.3,--,--,1.7,71.4,-1.7,136.0,8.5,--
+"Noah Fant
+SeaTE",BIBO,,Den,Tue 2:15 AM,6.9,--,--,9.8,71.0,-2.5,109.4,6.8,--
+"Russell GageQ
+TBWR",BIBO,,@Dal,Mon 2:20 AM,7.6,--,--,1.8,69.1,-6.2,135.4,8.5,--
+"Skyy Moore
+KCWR",MHB,,@Ari,Sun 10:25 PM,8.1,--,--,1.4,69.0,#ERROR!,134.4,8.4,--
+"Kirk Cousins
+MinQB",MLFS,,GB,Sun 10:25 PM,15.8,--,--,9.1,67.7,-0.3,269.6,16.8,--
+"Kenny Golladay
+NYGWR",MLFS,,@Ten,Sun 10:25 PM,9.2,--,--,1.8,67.5,0,138.4,9.2,--
+"Tyler Boyd
+CinWR",MHB,,Pit,Sun 7:00 PM,6.7,--,--,1.9,65.1,#ERROR!,134.7,8.4,--
+"Commanders D/ST
+WshD/ST",FLY,,Jax,Sun 7:00 PM,6.4,--,--,58.0,64.6,-2.9,108.0,6.4,--
+"Jarvis Landry
+NOWR",CML,,@Atl,Sun 7:00 PM,7.0,--,--,2.1,63.7,-1.4,126.3,8.4,--
+"Nyheim Hines
+IndRB",FLY,,@Hou,Sun 7:00 PM,6.7,--,--,1.5,61.9,#ERROR!,117.5,7.8,--
+"Steelers D/ST
+PitD/ST",CML,,@Cin,Sun 7:00 PM,5.3,--,--,46.6,58.8,-0.2,108.6,6.4,--
+"Cole Kmet
+ChiTE",PP,,SF,Sun 7:00 PM,6.6,--,--,6.9,57.4,0,109.8,6.9,--
+"Mecole HardmanQ
+KCWR",MLFS,,@Ari,Sun 10:25 PM,7.0,--,--,1.9,57.2,-1.5,117.1,7.3,--
+"Tua Tagovailoa
+MiaQB",LCow,,NE,Sun 7:00 PM,16.9,--,--,5.7,51.1,#ERROR!,253.8,16.9,--
+"Jahan Dotson
+WshWR",REIC,,Jax,Sun 7:00 PM,8.3,--,--,0.9,50.1,#ERROR!,132.3,8.3,--
+"Chargers D/ST
+LACD/ST",DOM,,LV,Sun 10:25 PM,5.9,--,--,36.0,48.5,#ERROR!,102.9,6.1,--
+"Browns D/ST
+CleD/ST",MLFS,,@Car,Sun 7:00 PM,7.5,--,--,39.0,47.5,-3.7,106.0,6.2,--
+"Marquez Valdes-Scantling
+KCWR",PP,,@Ari,Sun 10:25 PM,9.0,--,--,1.2,47.4,#ERROR!,150.0,9.4,--
+"Irv Smith Jr.Q
+MinTE",OTK,,GB,Sun 10:25 PM,6.7,--,--,5.0,45.2,-1.2,109.6,6.9,--
+"Christian WatsonQ
+GBWR",PP,,@Min,Sun 10:25 PM,5.9,--,--,0.6,44.1,-18.8,99.7,6.2,--
+"David Njoku
+CleTE",CML,,@Car,Sun 7:00 PM,6.5,--,--,4.2,43.0,#ERROR!,108.0,6.7,--
+"Trevor Lawrence
+JaxQB",BIBO,,@Wsh,Sun 7:00 PM,15.7,--,--,5.5,41.9,#ERROR!,258.6,16.2,--
+"J.D. McKissicQ
+WshRB",MLFS,,Jax,Sun 7:00 PM,7.2,--,--,1.4,41.2,#ERROR!,113.6,7.6,--
+"Raheem Mostert
+MiaRB",FLY,,NE,Sun 7:00 PM,7.3,--,--,2.0,40.6,#ERROR!,115.0,8.8,--
+"Tyler Higbee
+LARTE",CML,,Buf,Fri 2:20 AM,6.9,--,--,4.9,39.7,5,103.7,6.9,--
+"Dameon Pierce
+HouRB",OTK,,Ind,Sun 7:00 PM,6.0,--,--,0.7,38.5,#ERROR!,123.5,8.2,--
+"Robbie AndersonQ
+CarWR",MLFS,,Cle,Sun 7:00 PM,8.2,--,--,1.0,37.3,#ERROR!,136.7,8.5,--
+"Jameson WilliamsO
+DetWR",MHB,,Phi,Sun 7:00 PM,0.0,--,--,0.3,36.9,-15.2,77.2,8.6,--
+"Deshaun WatsonSSPD
+CleQB",MHB,,@Car,Sun 7:00 PM,0.0,--,--,2.7,36.0,-12.1,111.9,18.7,--
+"Julio Jones
+TBWR",MHB,,@Dal,Mon 2:20 AM,5.7,--,--,1.7,34.0,#ERROR!,104.2,7.4,--
+"George Pickens
+PitWR",REIC,,@Cin,Sun 7:00 PM,6.9,--,--,2.3,33.3,#ERROR!,118.8,7.4,--
+"Rams D/ST
+LARD/ST",DOM,,Buf,Fri 2:20 AM,4.1,--,--,20.2,33.2,-1.7,87.6,5.2,--
+"Marlon Mack
+HouRB",CML,,Ind,Sun 7:00 PM,7.3,--,--,1.1,32.6,-5.9,103.4,7.4,--
+"Alexander Mattison
+MinRB",PP,,GB,Sun 10:25 PM,3.8,--,--,0.4,30.1,-0.5,101.1,6.7,--
+"Marvin Jones Jr.
+JaxWR",MLFS,,@Wsh,Sun 7:00 PM,8.2,--,--,1.1,29.9,1,134.0,8.4,--
+"Rondale Moore
+AriWR",CML,,KC,Sun 10:25 PM,9.3,--,--,2.1,28.1,1,115.0,7.2,--
+"Michael GallupO
+DalWR",PP,,TB,Mon 2:20 AM,0.0,--,--,0.6,27.7,-4,115.0,9.6,--
+"Jake Elliott
+PhiK",LCow,,@Det,Sun 7:00 PM,7.6,--,--,22.7,26.6,-3.5,132.5,7.8,--
+"Ronald Jones
+KCRB",OTK,,@Ari,Sun 10:25 PM,3.6,--,--,0.9,26.4,-10.4,59.6,4.0,--
+"Patriots D/ST
+NED/ST",BIBO,,@Mia,Sun 7:00 PM,5.3,--,--,16.1,24.0,#ERROR!,99.1,5.8,--
+"Greg Joseph
+MinK",REIC,,GB,Sun 10:25 PM,8.0,--,--,20.0,24.0,#ERROR!,134.7,7.9,--
+"Jalen Tolbert
+DalWR",BIBO,,TB,Mon 2:20 AM,9.0,--,--,0.9,23.5,#ERROR!,128.7,8.0,--
+"Justin Fields
+ChiQB",BIBO,,SF,Sun 7:00 PM,14.8,--,--,2.1,23.0,3,252.6,15.8,--
+"Bengals D/ST
+CinD/ST",OTK,,Pit,Sun 7:00 PM,6.9,--,--,16.7,22.9,-1.4,103.8,6.1,--
+"DJ Chark
+DetWR",LCow,,Phi,Sun 7:00 PM,8.0,--,--,0.6,22.7,#ERROR!,123.1,8.2,--
+"DeVante Parker
+NEWR",LCow,,@Mia,Sun 7:00 PM,8.2,--,--,0.9,21.3,#ERROR!,118.3,7.9,--
+"Isaiah Spiller
+LACRB",DOM,,LV,Sun 10:25 PM,4.4,--,--,0.4,20.7,#ERROR!,95.7,6.4,--
+"Dolphins D/ST
+MiaD/ST",MHB,,NE,Sun 7:00 PM,6.2,--,--,14.9,20.4,-1,108.7,6.4,--
+"Darrell Henderson Jr.Q
+LARRB",LCow,,Buf,Fri 2:20 AM,6.3,--,--,0.6,18.1,#ERROR!,94.6,6.8,--
+"Ryan Succop
+TBK",CML,,@Dal,Mon 2:20 AM,7.5,--,--,12.7,16.6,-0.7,130.0,7.6,--
+"Joshua Palmer
+LACWR",DOM,,LV,Sun 10:25 PM,6.7,--,--,0.4,16.2,#ERROR!,122.5,7.7,--
+"Eagles D/ST
+PhiD/ST",PP,,@Det,Sun 7:00 PM,6.3,--,--,11.7,15.4,-0.2,99.4,5.8,--
+"Jamaal Williams
+DetRB",DOM,,Phi,Sun 7:00 PM,7.3,--,--,0.7,15.1,#ERROR!,109.5,7.8,--
+"Evan Engram
+JaxTE",MLFS,,@Wsh,Sun 7:00 PM,6.5,--,--,1.7,14.4,2,99.2,6.6,--
+"Odell Beckham Jr.Q
+FAWR",MHB,,--,,--,--,--,0.8,14.3,-2,--,--,--
+"Jameis WinstonQ
+NOQB",CML,,@Atl,Sun 7:00 PM,16.5,--,--,1.9,14.3,#ERROR!,239.7,16.0,--
+"Younghoe Koo
+AtlK",PP,,NO,Sun 7:00 PM,7.0,--,--,10.8,13.8,#ERROR!,125.0,7.4,--
+"Mac Jones
+NEQB",DOM,,@Mia,Sun 7:00 PM,14.5,--,--,1.3,13.6,#ERROR!,236.1,14.8,--
+"Matt Ryan
+IndQB",LCow,,@Hou,Sun 7:00 PM,15.5,--,--,1.7,13.5,#ERROR!,239.1,14.9,--
+"Mark Ingram II
+NORB",REIC,,@Atl,Sun 7:00 PM,6.0,--,--,0.7,13.1,-2,89.5,6.4,--
+"Albert Okwuegbunam
+DenTE",BIBO,,@Sea,Tue 2:15 AM,6.1,--,--,2.0,12.0,1,97.1,6.1,--
+"Tyler Allgeier
+AtlRB",BIBO,,NO,Sun 7:00 PM,3.5,--,--,0.2,11.7,#ERROR!,75.8,5.1,--
+"Hayden Hurst
+CinTE",REIC,,Pit,Sun 7:00 PM,6.3,--,--,1.5,11.4,#ERROR!,104.3,6.5,--
+"Van JeffersonQ
+LARWR",BIBO,,Buf,Fri 2:20 AM,7.5,--,--,0.5,11.4,#ERROR!,129.6,8.1,--
+"Robert TonyanQ
+GBTE",REIC,,@Min,Sun 10:25 PM,6.9,--,--,1.2,10.6,1,98.8,6.6,--
+"Austin Hooper
+TenTE",BIBO,,NYG,Sun 10:25 PM,6.6,--,--,1.4,10.5,#ERROR!,100.2,6.7,--
+"Ryan Tannehill
+TenQB",REIC,,NYG,Sun 10:25 PM,16.2,--,--,1.3,10.4,#ERROR!,252.1,15.8,--
+"Broncos D/ST
+DenD/ST",BIBO,,@Sea,Tue 2:15 AM,5.5,--,--,7.4,10.0,#ERROR!,77.5,4.6,--
+"Carson Wentz
+WshQB",MLFS,,Jax,Sun 7:00 PM,16.5,--,--,1.4,10.0,#ERROR!,254.7,15.9,--
+"Cade York
+CleK",OTK,,@Car,Sun 7:00 PM,7.4,--,--,8.2,9.9,-0.7,122.8,7.2,--
+"Logan ThomasO
+WshTE",FLY,,Jax,Sun 7:00 PM,0.0,--,--,0.9,9.5,-4.3,79.2,6.6,--
+"Daniel Jones
+NYGQB",OTK,,@Ten,Sun 10:25 PM,16.6,--,--,1.4,9.2,#ERROR!,254.0,16.9,--
+"Titans D/ST
+TenD/ST",MLFS,,NYG,Sun 10:25 PM,6.5,--,--,6.6,8.9,2,85.8,5.0,--
+"Zach WilsonQ
+NYJQB",PP,,Bal,Sun 7:00 PM,15.4,--,--,0.9,8.8,-1.9,236.5,15.8,--
+"Brian Robinson
+WshRB",PP,,Jax,Sun 7:00 PM,5.1,--,--,0.2,8.7,#ERROR!,91.0,6.1,--
+"Chris Boswell
+PitK",CML,,@Cin,Sun 7:00 PM,7.3,--,--,6.8,8.7,#ERROR!,126.3,7.4,--
+"Dustin Hopkins
+LACK",BIBO,,LV,Sun 10:25 PM,7.8,--,--,6.6,8.3,1,128.5,7.6,--
+"Alec Pierce
+IndWR",LCow,,@Hou,Sun 7:00 PM,6.9,--,--,0.3,8.2,-0.8,117.9,7.4,--
+"Nico Collins
+HouWR",REIC,,Ind,Sun 7:00 PM,7.7,--,--,0.3,8.1,#ERROR!,125.9,7.9,--
+"Gus EdwardsO
+BalRB",REIC,,@NYJ,Sun 7:00 PM,0.0,--,--,0.2,7.2,-2,84.2,7.0,--
+"Gerald Everett
+LACTE",BIBO,,LV,Sun 10:25 PM,6.5,--,--,1.1,7.1,1,102.4,6.4,--
+"Kenyan Drake
+LVRB",BIBO,,@LAC,Sun 10:25 PM,4.4,--,--,0.4,7.1,#ERROR!,75.8,5.4,--
+"Kenneth Gainwell
+PhiRB",BIBO,,@Det,Sun 7:00 PM,5.5,--,--,0.4,7.0,#ERROR!,94.0,6.3,--
+"Romeo Doubs
+GBWR",OTK,,@Min,Sun 10:25 PM,5.7,--,--,0.1,6.9,#ERROR!,86.5,5.4,--
+"Jamison Crowder
+BufWR",MLFS,,@LAR,Fri 2:20 AM,4.6,--,--,0.3,6.8,-1.7,77.8,5.2,--
+"Khalil Herbert
+ChiRB",BIBO,,SF,Sun 7:00 PM,5.1,--,--,0.2,6.6,#ERROR!,88.7,5.9,--
+"Curtis Samuel
+WshWR",FLY,,Jax,Sun 7:00 PM,7.5,--,--,0.3,6.5,#ERROR!,110.8,7.4,--
+"A.J. Green
+AriWR",LCow,,KC,Sun 10:25 PM,8.0,--,--,0.6,6.3,1,97.5,6.5,--
+"Rachaad White
+TBRB",MHB,,@Dal,Mon 2:20 AM,4.0,--,--,0.2,5.9,#ERROR!,83.9,5.6,--
+"Baker Mayfield
+CarQB",CML,,Cle,Sun 7:00 PM,13.5,--,--,0.6,5.7,#ERROR!,211.1,14.1,--
+"Isiah Pacheco
+KCRB",CML,,@Ari,Sun 10:25 PM,2.9,--,--,0.1,5.4,#ERROR!,56.9,3.8,--
+"Chuba Hubbard
+CarRB",MHB,,Cle,Sun 7:00 PM,2.3,--,--,0.2,5.4,#ERROR!,53.3,3.6,--
+"Darrel Williams
+AriRB",PP,,KC,Sun 10:25 PM,4.3,--,--,0.2,5.0,#ERROR!,83.0,5.5,--
+"Wan'Dale Robinson
+NYGWR",PP,,@Ten,Sun 10:25 PM,6.5,--,--,0.2,4.7,#ERROR!,114.5,7.2,--
+"Sony Michel
+MiaRB",FLY,,NE,Sun 7:00 PM,3.9,--,--,0.2,4.6,#ERROR!,72.2,4.8,--
+"Kenny Pickett
+PitQB",MHB,,@Cin,Sun 7:00 PM,0.0,--,--,0.3,4.5,#ERROR!,124.2,13.8,--
+"Rodrigo Blankenship
+IndK",REIC,,@Hou,Sun 7:00 PM,7.1,--,--,3.1,3.9,#ERROR!,123.0,7.2,--
+"Jerick McKinnonQ
+KCRB",FLY,,@Ari,Sun 10:25 PM,4.0,--,--,0.2,3.9,#ERROR!,62.6,4.8,--
+"Corey Davis
+NYJWR",MLFS,,Bal,Sun 7:00 PM,6.6,--,--,0.2,3.7,-0.8,98.6,6.6,--
+"Rex Burkhead
+HouRB",MLFS,,Ind,Sun 7:00 PM,5.9,--,--,0.3,3.7,#ERROR!,91.2,6.5,--
+"Sammy Watkins
+GBWR",FLY,,@Min,Sun 10:25 PM,4.0,--,--,0.3,3.6,0,75.8,5.4,--
+"Vikings D/ST
+MinD/ST",REIC,,GB,Sun 10:25 PM,4.0,--,--,2.3,3.5,-0.3,86.4,5.1,--
+"Kendrick Bourne
+NEWR",BIBO,,@Mia,Sun 7:00 PM,5.9,--,--,0.2,3.5,#ERROR!,108.5,6.8,--
+"Zamir White
+LVRB",REIC,,@LAC,Sun 10:25 PM,2.3,--,--,0.1,3.5,#ERROR!,56.8,3.8,--
+"Jared Goff
+DetQB",MHB,,Phi,Sun 7:00 PM,14.7,--,--,0.5,3.4,#ERROR!,236.3,14.8,--
+"Cedrick Wilson Jr.
+MiaWR",DOM,,NE,Sun 7:00 PM,6.4,--,--,0.2,3.4,#ERROR!,117.3,7.3,--
+"Randall CobbQ
+GBWR",MLFS,,@Min,Sun 10:25 PM,6.7,--,--,0.3,3.2,-0.2,94.0,6.7,--
+"Kyle Rudolph
+TBTE",CML,,@Dal,Mon 2:20 AM,4.2,--,--,0.5,3.2,#ERROR!,70.6,4.4,--
+"Tim PatrickIR
+DenWR",PP,,@Sea,Tue 2:15 AM,0.0,--,--,0.1,3.1,-2.1,0.0,--,--
+"Wil Lutz
+NOK",MHB,,@Atl,Sun 7:00 PM,7.3,--,--,2.3,3.0,#ERROR!,125.0,7.4,--
+"K.J. Osborn
+MinWR",PP,,GB,Sun 10:25 PM,5.5,--,--,0.2,2.9,#ERROR!,104.4,6.5,--
+"Isaiah McKenzie
+BufWR",CML,,@LAR,Fri 2:20 AM,5.9,--,--,0.2,2.8,#ERROR!,93.0,5.8,--
+"Chiefs D/ST
+KCD/ST",MHB,,@Ari,Sun 10:25 PM,4.2,--,--,1.5,2.8,#ERROR!,63.7,3.7,--
+"Marcus Mariota
+AtlQB",LCow,,NO,Sun 7:00 PM,14.7,--,--,0.3,2.5,#ERROR!,140.6,15.6,--
+"KJ HamlerQ
+DenWR",OTK,,@Sea,Tue 2:15 AM,6.3,--,--,0.2,2.5,0,109.3,6.8,--
+"C.J. Uzomah
+NYJTE",MLFS,,Bal,Sun 7:00 PM,3.8,--,--,0.3,2.4,-0.3,58.7,3.7,--
+"D'Onta Foreman
+CarRB",DOM,,Cle,Sun 7:00 PM,2.3,--,--,0.1,2.4,#ERROR!,53.2,3.5,--
+"Mitch Trubisky
+PitQB",BIBO,,@Cin,Sun 7:00 PM,14.8,--,--,0.4,2.3,#ERROR!,117.7,14.7,--
+"Mo Alie-Cox
+IndTE",MLFS,,@Hou,Sun 7:00 PM,5.6,--,--,0.3,2.3,#ERROR!,86.9,5.4,--
+"John Metchie IIIO
+HouWR",LCow,,Ind,Sun 7:00 PM,0.0,--,--,0.1,2.3,-1.2,0.0,--,--
+"Tyrion Davis-Price
+SFRB",OTK,,@Chi,Sun 7:00 PM,2.1,--,--,0.1,2.2,#ERROR!,47.6,3.2,--
+"Velus Jones Jr.
+ChiWR",MLFS,,SF,Sun 7:00 PM,6.3,--,--,0.1,2.2,-0.2,110.9,6.9,--
+"James WhiteO
+NERB",FLY,,@Mia,Sun 7:00 PM,0.0,--,--,0.2,2.1,-1.6,0.0,--,--
+"Nick Westbrook-Ikhine
+TenWR",MLFS,,NYG,Sun 10:25 PM,6.2,--,--,0.2,2.1,#ERROR!,107.5,6.7,--
+"Davis Mills
+HouQB",REIC,,Ind,Sun 7:00 PM,13.9,--,--,0.2,2.0,0,210.9,14.1,--
+"Damien Williams
+AtlRB",FLY,,NO,Sun 7:00 PM,5.6,--,--,0.2,2.0,0,86.7,6.2,--
+"Donovan Peoples-Jones
+CleWR",BIBO,,@Car,Sun 7:00 PM,4.5,--,--,0.2,1.8,0,80.9,5.1,--
+"Hassan Haskins
+TenRB",MHB,,NYG,Sun 10:25 PM,2.3,--,--,0.1,1.8,#ERROR!,48.1,3.2,--
+"Devin Duvernay
+BalWR",DOM,,@NYJ,Sun 7:00 PM,5.6,--,--,0.2,1.7,#ERROR!,93.5,5.8,--
+"Drew LockQ
+SeaQB",CML,,Den,Tue 2:15 AM,15.1,--,--,0.2,1.6,#ERROR!,151.1,15.1,--
+"Dontrell Hilliard
+TenRB",FLY,,NYG,Sun 10:25 PM,3.7,--,--,0.1,1.6,#ERROR!,62.4,4.2,--
+"Parris Campbell
+IndWR",DOM,,@Hou,Sun 7:00 PM,5.1,--,--,0.1,1.6,0,78.9,5.6,--
+"Brevin Jordan
+HouTE",BIBO,,Ind,Sun 7:00 PM,5.4,--,--,0.2,1.5,0,86.7,5.4,--
+"D'Ernest Johnson
+CleRB",PP,,@Car,Sun 7:00 PM,0.6,--,--,0.1,1.5,#ERROR!,20.6,1.4,--
+"Cardinals D/ST
+AriD/ST",REIC,,KC,Sun 10:25 PM,2.7,--,--,0.6,1.4,0,65.9,3.9,--
+"Taysom Hill
+NOTE",FLY,,@Atl,Sun 7:00 PM,2.0,--,--,0.2,1.4,0,31.8,2.0,--
+"Matt BreidaQ
+NYGRB",CML,,@Ten,Sun 10:25 PM,2.9,--,--,0.1,1.4,-0.1,57.5,3.8,--
+"Malik Willis
+TenQB",MHB,,NYG,Sun 10:25 PM,0.0,--,--,0.1,1.3,#ERROR!,16.2,8.1,--
+"Boston Scott
+PhiRB",DOM,,@Det,Sun 7:00 PM,3.7,--,--,0.1,1.2,-0.1,60.1,4.0,--
+"Bears D/ST
+ChiD/ST",CML,,SF,Sun 7:00 PM,3.9,--,--,0.6,1.2,0,70.8,4.2,--
+"Desmond Ridder
+AtlQB",OTK,,NO,Sun 7:00 PM,0.0,--,--,0.1,1.2,-0.1,117.3,14.7,--
+"Chris Evans
+CinRB",REIC,,Pit,Sun 7:00 PM,2.3,--,--,0.1,1.2,0,47.7,3.2,--
+"Mike DavisQ
+BalRB",REIC,,@NYJ,Sun 7:00 PM,6.2,--,--,0.1,1.2,#ERROR!,41.1,2.7,--
+"Jimmy Garoppolo
+SFQB",LCow,,@Chi,Sun 7:00 PM,0.0,--,--,0.1,1.1,0,0.0,--,--
+"Ke'Shawn Vaughn
+TBRB",DOM,,@Dal,Mon 2:20 AM,2.3,--,--,0.1,1.1,-0.1,51.2,3.4,--
+"David Bell
+CleWR",DOM,,@Car,Sun 7:00 PM,3.0,--,--,0.0,1.1,-0.2,52.9,3.3,--
+"Terrace Marshall Jr.Q
+CarWR",MHB,,Cle,Sun 7:00 PM,4.1,--,--,0.1,1.1,-0.1,79.0,4.9,--
+"Calvin RidleySSPD
+AtlWR",MHB,,NO,Sun 7:00 PM,0.0,--,--,0.1,1.0,-0.2,0.0,--,--
+"Jacoby Brissett
+CleQB",FLY,,@Car,Sun 7:00 PM,14.3,--,--,0.2,1.0,#ERROR!,138.2,13.8,--
+"Jonnu Smith
+NETE",REIC,,@Mia,Sun 7:00 PM,3.4,--,--,0.1,1.0,-0.1,58.0,3.6,--
+"Tyquan ThorntonQ
+NEWR",PP,,@Mia,Sun 7:00 PM,1.3,--,--,0.0,1.0,0,37.2,2.3,--
+"Trey McBride
+AriTE",OTK,,KC,Sun 10:25 PM,1.5,--,--,0.1,1.0,-0.2,25.9,1.6,--
+"Trey SermonQ
+SFRB",PP,,@Chi,Sun 7:00 PM,0.0,--,--,0.1,0.9,-0.1,8.2,0.6,--
+"Bryan EdwardsQ
+AtlWR",BIBO,,NO,Sun 7:00 PM,4.6,--,--,0.1,0.8,-0.1,80.8,5.0,--
+"Adam Trautman
+NOTE",PP,,@Atl,Sun 7:00 PM,3.8,--,--,0.1,0.8,-0.1,65.3,4.1,--
+"Tommy Tremble
+CarTE",DOM,,Cle,Sun 7:00 PM,4.5,--,--,0.1,0.8,0,71.2,4.4,--
+"Zay Jones
+JaxWR",OTK,,@Wsh,Sun 7:00 PM,4.2,--,--,0.1,0.8,#ERROR!,72.9,4.6,--
+"William Fuller VQ
+FAWR",REIC,,--,,--,--,--,0.0,0.8,-0.3,--,--,--
+"Dee EskridgeQ
+SeaWR",LCow,,Den,Tue 2:15 AM,5.1,--,--,0.1,0.8,-0.1,87.0,5.4,--
+"James WashingtonO
+DalWR",LCow,,TB,Mon 2:20 AM,0.0,--,--,0.1,0.8,-0.2,57.2,4.8,--
+"Joshua Kelley
+LACRB",OTK,,LV,Sun 10:25 PM,2.7,--,--,0.0,0.7,#ERROR!,39.4,2.6,--
+"Zack Moss
+BufRB",LCow,,@LAR,Fri 2:20 AM,0.4,--,--,0.1,0.7,0,16.3,1.1,--
+"DeeJay Dallas
+SeaRB",DOM,,Den,Tue 2:15 AM,1.2,--,--,0.1,0.7,#ERROR!,32.1,2.5,--
+"Laviska Shenault Jr.Q
+JaxWR",MHB,,@Wsh,Sun 7:00 PM,2.0,--,--,0.1,0.7,-0.2,38.7,2.4,--
+"Jelani Woods
+IndTE",CML,,@Hou,Sun 7:00 PM,1.4,--,--,0.1,0.7,-0.2,26.8,1.7,--
+"Noah BrownQ
+DalWR",CML,,TB,Mon 2:20 AM,6.7,--,--,0.1,0.7,#ERROR!,46.0,2.9,--
+"O.J. Howard
+BufTE",LCow,,@LAR,Fri 2:20 AM,1.5,--,--,0.1,0.7,-0.1,42.4,2.8,--
+"Pierre Strong Jr.
+NERB",OTK,,@Mia,Sun 7:00 PM,0.0,--,--,0.0,0.6,-0.1,13.9,1.0,--
